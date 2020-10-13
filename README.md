@@ -2,7 +2,7 @@
 
 #### Projeto da cadeira de Sistemas Inteligentes
 
-Utilizar o algoritmo de aprendizado regra Delta visando a classificação de padrões pelo
+Utilização do algoritmo de aprendizado regra Delta visando a classificação de padrões pelo
 Adaline para o seguinte problema:
 
 
